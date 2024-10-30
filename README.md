@@ -4,9 +4,10 @@
 <p>Computer Engineering student with a passion for learning and building new things. I love applying innovative technologies and developing creative solutions to solve problems. Always looking for new challenges to grow in the field of computer science.</p>
 
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
